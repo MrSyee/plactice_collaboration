@@ -31,4 +31,5 @@ class Calculator(object):
         return x + y
 
     def minus(self, x: float, y: float) -> float:
+        """Return the minus of two inputs."
         pass
