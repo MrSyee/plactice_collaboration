@@ -29,3 +29,6 @@ class Calculator(object):
             float : The sum of two given numbers.
         """
         return x + y
+
+    def minus(self, x: float, y: float) -> float:
+        pass
